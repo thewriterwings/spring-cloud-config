@@ -1,0 +1,4 @@
+# defult config file
+spring:
+  application:
+    message: message comig from config server
